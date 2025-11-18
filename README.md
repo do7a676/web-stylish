@@ -27,7 +27,7 @@ A modern, responsive fashion e-commerce website built with pure HTML and CSS.
 
 - HTML5
 - CSS3 (Flexbox & Grid)
-- Responsive Design Principles
+- Responsive Design Principle
 
 ## 📱 Responsive
 
